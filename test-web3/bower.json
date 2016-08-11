@@ -1,0 +1,17 @@
+{
+  "name": "test-web3",
+  "authors": [
+    "liujiaxi <liujiaxi@mana.cn>"
+  ],
+  "description": "example of web3.js usage",
+  "main": "index.html",
+  "keywords": [
+    "web3",
+    "ethereum"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "web3": "^0.16.0"
+  }
+}
